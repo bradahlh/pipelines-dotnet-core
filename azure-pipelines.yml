@@ -6,8 +6,7 @@
 trigger:
 - master
 
-pool:
-  vmImage: ubuntu-latest
+pool: andreas-macbook
 
 variables:
   buildConfiguration: 'Release'
